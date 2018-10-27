@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">My Application1</string>
+    <string name="StringMoez" translatable="false">String Creat with moez</string>
+</resources>
